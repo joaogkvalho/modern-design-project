@@ -1,22 +1,40 @@
-![modern-layout-desing](https://user-images.githubusercontent.com/50122135/181345319-326d1a5d-b409-47af-a144-cdf5c669bbf2.png)
+<h1 align="center"> modern-layout-desing </h1>
 
-> Status: Finished ✔️
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-### This is a very simple and modern layout page created with just HTML and CSS
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-## Some features on this project
+<br>
 
-* Modern layout design with simple CSS
-* Sidebar menu with social media icons
-* Backgroun image with fade effect
+<p align="center">
+  <img alt="projeto do curso discover" src=".github/preview.png" width="100%">
+</p>
 
-## Technologies used
+## 🚀 Tecnologias
 
-* HTML5
-* CSS3
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-## How to run this project
+- HTML5
+- CSS3
 
-1) Clone the repositorie on your computer.
-2) Open the project folder on the code editor.
-3) Open the file "index.html" on your preferred browser.
+## 🔥 Algumas features neste projeto
+
+- Layout moderno com simples CSS
+- Menu do estilo sidebar com ícones de redes sociais
+- Imagem de background com efeito de fade
+
+## 💻 Projeto
+
+- Esta é uma aplicação muito simples com um layout moderno criada somente com HTML e CSS
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT.
+
+---
